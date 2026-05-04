@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdur+Rauf;Full+Stack+Web+Developer;_Angular+%7C+Laravel+%7C+WordPress" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdur+Rauf;Full+Stack+Web+Developer;Angular+%7C+Laravel+%7C+WordPress" alt="Typing Animation" />
 </h1>
 
 <p align="center">
