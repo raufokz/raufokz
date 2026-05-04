@@ -34,13 +34,7 @@
 
 ---
 
-### 🏆 Featured Projects
 
-| Project | Tech | Link |
-|---------|------|------|
-| **Company Hub** | Angular | [Repo](https://github.com/SoftoSol/SoftoTeam-web) |
-| **Attendance System** | Laravel | [Repo](https://github.com/raufokz/attendance-system) |
-| **Shooter Game** | JavaScript | [Live](https://shootergame-raufokz.netlify.app/) |
 
 ---
 
