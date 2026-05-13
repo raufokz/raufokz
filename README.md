@@ -10,7 +10,7 @@
 
 <p align="center">
   🚀 Building fast, scalable web applications <br>
-  🌍 2.5+ years remote experience with US-based teams
+  🌍 2.5+ years  experience Onsite and Remote with US-based teams
 </p>
 
 ---
